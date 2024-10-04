@@ -1,0 +1,47 @@
+body{
+    background-color: #c7f9cc;}
+
+.menu{
+    background-color: #80ed99;
+    height: 80px;
+    width: 100%;}
+
+.principal{
+    background-color: #57cc99;
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content:center;}
+
+h1{
+    font-family: 'Renogare', sans-serif;                                           
+    color: #22577a;
+    margin: 0%;
+    font-size: 75px;}
+
+.rodape{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;}
+
+.tabela{
+    height: fit-content;
+    height: 225px;
+    width: 800px;
+    background-color: #38a3a5;
+    padding: 20px;
+    border-radius: 50px;}
+
+.formulario{
+    height: fit-content;
+    height: 250px;
+    width: 800px;
+    background-color: #38a3a5;
+    padding:20px;
+    border-radius: 50px;}
+
+
+

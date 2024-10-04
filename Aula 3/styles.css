@@ -1,0 +1,19 @@
+body{background-color:indianred;}
+
+img{height: 400px;
+border-style:solid;
+border-width: 0.5cm;
+border-color: black;}
+
+p{font-size: 25px;
+font-family: cursive;
+color:rgb(104, 16, 16);}
+
+h1{font-size: 60px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+color:rgb(104, 16, 16);}
+
+button{height: 100px;
+width: 800px;
+font-size: 26px;
+background-color:rgb(168, 136, 197);}
